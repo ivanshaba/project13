@@ -4451,7 +4451,7 @@ form input::placeholder {
 
     .card {
         position: relative;
-        width: 12em;
+        width: 11em;
         height: 7em;
         padding-left: 1em;
         background: rgba(251, 249, 249, 0.6);
